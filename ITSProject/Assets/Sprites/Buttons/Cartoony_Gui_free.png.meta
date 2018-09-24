@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: 8d098b03884f91e46b3c3b2c658e9782
+timeCreated: 1499061995
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cartoony_Gui_free_0
+    21300002: Cartoony_Gui_free_1
+    21300004: Cartoony_Gui_free_2
+    21300006: Cartoony_Gui_free_3
+    21300008: Cartoony_Gui_free_4
+    21300010: Cartoony_Gui_free_5
+    21300012: Cartoony_Gui_free_6
+    21300014: Cartoony_Gui_free_7
+    21300016: Cartoony_Gui_free_8
+    21300018: Cartoony_Gui_free_9
+    21300020: Cartoony_Gui_free_10
+    21300022: Cartoony_Gui_free_11
+    21300024: Cartoony_Gui_free_12
+    21300026: Cartoony_Gui_free_13
+    21300028: Cartoony_Gui_free_14
+    21300030: Cartoony_Gui_free_15
+    21300032: Cartoony_Gui_free_16
+    21300034: Cartoony_Gui_free_17
+    21300036: Cartoony_Gui_free_18
+    21300038: Cartoony_Gui_free_19
+    21300040: Cartoony_Gui_free_20
+    21300042: Cartoony_Gui_free_21
+    21300044: Cartoony_Gui_free_22
+    21300046: Cartoony_Gui_free_23
+    21300048: Cartoony_Gui_free_24
+    21300050: Cartoony_Gui_free_25
+    21300052: Cartoony_Gui_free_26
+    21300054: Cartoony_Gui_free_27
+    21300056: Cartoony_Gui_free_28
+    21300058: Cartoony_Gui_free_29
+    21300060: Cartoony_Gui_free_30
+    21300062: Cartoony_Gui_free_31
+    21300064: Cartoony_Gui_free_32
+    21300066: Cartoony_Gui_free_33
+    21300068: Cartoony_Gui_free_34
+    21300070: Cartoony_Gui_free_35
+    21300072: Cartoony_Gui_free_36
+    21300074: Cartoony_Gui_free_37
+    21300076: Cartoony_Gui_free_38
+    21300078: Cartoony_Gui_free_39
+    21300080: Cartoony_Gui_free_40
+    21300082: Cartoony_Gui_free_41
+    21300084: Cartoony_Gui_free_42
+    21300086: Cartoony_Gui_free_43
+    21300088: Cartoony_Gui_free_44
+    21300090: Cartoony_Gui_free_45
+    21300092: Cartoony_Gui_free_46
+    21300094: Cartoony_Gui_free_47
+    21300096: Cartoony_Gui_free_48
+    21300098: Cartoony_Gui_free_49
+    21300100: Cartoony_Gui_free_50
+    21300102: Cartoony_Gui_free_51
+    21300104: Cartoony_Gui_free_52
+    21300106: Cartoony_Gui_free_53
+    21300108: Cartoony_Gui_free_54
+    21300110: Cartoony_Gui_free_55
+    21300112: Cartoony_Gui_free_56
+    21300114: Cartoony_Gui_free_57
+    21300116: Cartoony_Gui_free_58
+    21300118: Cartoony_Gui_free_59
+    21300120: Cartoony_Gui_free_60
+    21300122: Cartoony_Gui_free_61
+    21300124: Cartoony_Gui_free_62
+    21300126: Cartoony_Gui_free_63
+    21300128: Cartoony_Gui_free_64
+    21300130: Cartoony_Gui_free_65
+    21300132: Cartoony_Gui_free_66
+    21300134: Cartoony_Gui_free_67
+    21300136: Cartoony_Gui_free_68
+    21300138: Cartoony_Gui_free_69
+    21300140: Cartoony_Gui_free_70
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 975
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 975
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 975
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 978
+        width: 145
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 978
+        width: 145
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_5
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 978
+        width: 145
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 852
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 852
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 852
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 920
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 836
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 836
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_12
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 920
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_13
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 852
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 852
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 852
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_16
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 753
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 753
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 753
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 753
+        width: 126
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_20
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 753
+        width: 109
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 659
+        width: 748
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 683
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_23
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 693
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_24
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 683
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_25
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 652
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 549
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 549
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 549
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_29
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 549
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 599
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 600
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_32
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 600
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 591
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 591
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_35
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 591
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 569
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 572
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_38
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 572
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 542
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_40
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 541
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_41
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 542
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 483
+        width: 246
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_43
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 529
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 532
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_45
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 532
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_46
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 491
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 491
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_48
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 491
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 505
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_50
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 503
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 503
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 377
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 377
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 377
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 377
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_56
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 377
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_57
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 377
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_58
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 377
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_59
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 377
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_60
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 287
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_61
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 287
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 287
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_63
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 287
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_64
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 287
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_65
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 287
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_66
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 407
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_67
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 197
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_68
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 197
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 197
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cartoony_Gui_free_70
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 197
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
